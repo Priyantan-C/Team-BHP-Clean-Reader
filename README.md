@@ -3,27 +3,27 @@ A minimal userstyle for Team-BHP forum that improves readability with a modern, 
 
 ## Features
 
-Centered content layout with 1200px max-width
-Modern system font stack (Inter, SF Pro, Segoe UI)
-Fully responsive design
-Enhanced typography for better readability
-Lightweight and non-intrusive
+- Centered content layout with 1200px max-width
+- Modern system font stack (Inter, SF Pro, Segoe UI)
+- Fully responsive design
+- Enhanced typography for better readability
+- Lightweight and non-intrusive
 
 ## Installation
-Automatic Installation (Recommended)
+*Automatic Installation (Recommended)*
 
-Install Stylus browser extension
-Click here to install: Install Team-BHP Clean Reader
-Click "Install style" in Stylus
+1. Install Stylus browser extension
+1. Click here to install: Install Team-BHP Clean Reader
+1. Click "Install style" in Stylus
 
-## Manual Installation
+*Manual Installation*
 
-Install Stylus browser extension
-Copy the contents of team-bhp-clean-reader.user.css
-Open Stylus > Manage > Write new style
-Paste the code and save
+1. Install Stylus browser extension
+1. Copy the contents of team-bhp-clean-reader.user.css
+1. Open Stylus > Manage > Write new style
+1. Paste the code and save
 
-## Browser Support
+### Browser Support
 Works with Stylus extension on:
 
 Chrome/Edge
