@@ -32,7 +32,10 @@ Opera
 Safari (with Userscripts extension)
 
 ## Preview
-Before: Wide, stretched forum posts on large monitors
+![Before](images/Team-BHP%20Forum%20Before.webp)
+**Before: Wide, stretched forum posts on large monitors**
+
+![After](images/Team-BHP%20Forum%20After%201.webp)![After](images/Team-BHP%20Forum%20After%202.webp)
 After: Comfortable, centered reading experience
 ## License
 MIT License - Feel free to modify and share
