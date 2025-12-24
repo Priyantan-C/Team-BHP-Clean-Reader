@@ -1,3 +1,14 @@
+/* ==UserStyle==
+@name           Team-BHP Clean Reader
+@namespace      github.com/Priyantan-C/Team-BHP-Clean-Reader
+@version        1.0.0
+@description    A minimal userstyle for Team-BHP forum that improves readability with a modern, centered layout
+@author         Priyantan Chatterjee
+@homepageURL    https://github.com/Priyantan-C/Team-BHP-Clean-Reader
+@updateURL      https://raw.githubusercontent.com/Priyantan-C/Team-BHP-Clean-Reader/main/Team-BHP-clean-reader.user.css
+@license        MIT
+==/UserStyle== */
+
 @-moz-document url-prefix("https://www.team-bhp.com/forum/") {
 
 /* Post Content Width */
